@@ -1,4 +1,4 @@
-# 🛒💳Customer Segmentation ![license](https://img.shields.io/github/license/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg) ![releases](https://img.shields.io/github/release/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg)
+# 🛒💳Customer Segmentation ![license](https://img.shields.io/github/license/alifrmf/Customer-Segmentation-Using-Clustering-Algorithms.svg) ![releases](https://img.shields.io/github/release/alifrmf/Customer-Segmentation-Using-Clustering-Algorithms.svg)
 
 **Customer Segmentation Using Unsupervised Machine Learning Algorithms**
 
