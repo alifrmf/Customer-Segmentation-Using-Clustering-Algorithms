@@ -23,4 +23,6 @@ This project demonstrates how to perform customer segmentation for a shopping ma
 ![White and Blue Simple Monthly Budget Pie Chart](https://user-images.githubusercontent.com/105715834/233505817-18d55dee-2a30-43b7-aa69-b1c3fa59a329.gif)
 
 
+## Dataset 📔
 
+[Kaggle link: Customer Segmentation](https://www.kaggle.com/datasets/alifarahmandfar/customer-segmentation)
